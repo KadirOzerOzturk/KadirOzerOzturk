@@ -38,18 +38,13 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KadirOzerOzturk&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirOzerOzturk&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KadirOzerOzturk&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KadirOzerOzturk&theme=tokyonight" /> 
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KadirOzerOzturk&theme=tokyonight" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=KadirOzerOzturk&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KadirOzerOzturk&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ---
 
@@ -57,7 +52,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KadirOzerOzturk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirozerozturk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KadirOzerOzturk)
 
 </div>
